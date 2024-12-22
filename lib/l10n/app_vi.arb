@@ -1,0 +1,22 @@
+{
+    "@@locale": "vi",
+    "boss": "Ông chủ",
+    "features": "Chức năng",
+    "hello": "Xin chào, {username}",
+    "@hello": {
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    },
+    "home": "Trang chủ",
+    "chat_gpt": "Chat GPT",
+    "ai_camera": "Máy ảnh AI",
+    "help": "Hỗ trợ",
+    "about_us": "Về chúng tôi",
+    "rate_us": "Đánh giá",
+    "language": "Tiếng Việt",
+    "setting": "Cài đặt",
+    "switch_language": "Chuyển ngôn ngữ"
+}

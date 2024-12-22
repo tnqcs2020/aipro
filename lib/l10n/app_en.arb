@@ -1,0 +1,23 @@
+
+{
+    "@@locale": "en",
+    "boss": "Boss",
+    "features": "Features",
+    "hello": "Hello, {username}",
+    "@hello": {
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    },
+    "home":"Home",
+    "ai_camera":"AI camera",
+    "chat_gpt":"Chat GPT",
+    "help":"Help",
+    "about_us": "About us",
+    "rate_us": "Rate us",
+    "language": "English",
+    "setting": "Setting",
+    "switch_language": "Switch language"
+}
